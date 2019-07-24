@@ -1,4 +1,4 @@
-# AMATH 50 Workshop 1: Optimization
+# Workshop: Optimization
 
 Please git clone all the materials
 
