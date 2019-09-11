@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-    utils
-    ~~~~~
+    solver
+    ~~~~~~
 
-    Ultility classes and functions.
+    Logistic regression solver.
 """
 import numpy as np
 import utils
